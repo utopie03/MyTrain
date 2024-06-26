@@ -32,6 +32,6 @@
   - 使用`PySide6`创建图形用户界面进行可视化显示
   - 将训练得到的模型转化为`onnx`,并使用`onnxruntime`进行推理一张图片，获取准确结果
 > VOCdevkit文件（数据集）在YOLOv8/YOLOv8_TrafficSignIdentification目录下，文件太大没有上传到GitHub   
-> 阿里网盘自存档。[分享链接]( )
+> 阿里网盘自存档。[网盘链接]((https://www.aliyundrive.com/drive/file/resource)
 -----
 ***————————————————————————自存档————————————————————————***
