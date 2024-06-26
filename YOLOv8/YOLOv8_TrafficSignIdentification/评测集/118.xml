@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pingceji</folder>
+	<filename>118.jpg</filename>
+	<path>/home/xxt/pingceji/118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p11</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1269</xmin>
+			<ymin>1000</ymin>
+			<xmax>1300</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+</annotation>
